@@ -1,1 +1,2 @@
 DEBUG = make it false on deploying on server
+pip install pillow
